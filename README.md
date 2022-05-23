@@ -413,13 +413,9 @@ PSP分析法是P(person)、S(scenes)、P(paths)的简写，即“角色-场景-�
 
 工作汇报类
 
-- 项目排期规划模板
+- [项目排期规划模板](https://github.com/msh01/awesome_product_design/blob/main/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%84%E4%BC%B0%E6%A8%A1%E6%9D%BFV1.0.xlsx)
 
-- 日报模板
-
-- 周报模板
-
-- 月报模板
+- [周报模板](https://github.com/msh01/awesome_product_design/blob/main/%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5%E6%A8%A1%E6%9D%BF.xlsx)
 
   
 
